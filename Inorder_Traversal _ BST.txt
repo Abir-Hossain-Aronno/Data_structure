@@ -1,5 +1,5 @@
 // inorder traversal of BST
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
  
 // Given Node node
